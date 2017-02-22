@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         contentView.setOnTouchListener(this);
         btn_add.setOnTouchListener(this);
         btn_remove.setOnTouchListener(this);
+        //add some words
     }
 
     @Override
